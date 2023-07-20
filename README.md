@@ -14,22 +14,24 @@ References:
 
 ## Cloning
 
-1. Clone the repository.
+Clone the repository.
 ```
 git clone https://github.com/atikahas/tk10_admin_daisyui.git
 ```
 
-2. Install Package
+## Install Package
+
+1. Install Package
 ```
 npm install
 ```
 
-3. If run local
+2. If run local
 ```
 npm run dev
 ```
 
-4. But, if on server
+3. But, if on server
 ```
 npm run build
 ```
